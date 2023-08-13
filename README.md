@@ -1,2 +1,1 @@
-# Empty...
-![snake gif](https://github.com/CitizenF1/CitizenF1/blob/output/github-contribution-grid-snake.svg)
+# Hello
